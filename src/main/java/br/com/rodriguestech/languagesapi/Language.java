@@ -1,4 +1,4 @@
-package br.com.rodriguestech.languages.api;
+package br.com.rodriguestech.languagesapi;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -31,5 +31,18 @@ public class Language {
     }
     public int getRanking() {
         return ranking;
-    }    
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setLogo(String logo) {
+        this.logo = logo;
+    }
+
+    public void setRanking(int ranking) {
+        this.ranking = ranking;
+    } 
+       
 }

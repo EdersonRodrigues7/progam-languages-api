@@ -1,4 +1,4 @@
-package br.com.rodriguestech.languages.api;
+package br.com.rodriguestech.languagesapi;
 
 import java.util.List;
 
