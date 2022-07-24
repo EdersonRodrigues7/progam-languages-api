@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.rodriguestech.languages.api.LanguagesApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.213 s - in br.com.rodriguestech.languages.api.LanguagesApiApplicationTests
