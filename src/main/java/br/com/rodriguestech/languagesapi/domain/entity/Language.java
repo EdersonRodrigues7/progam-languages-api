@@ -1,4 +1,4 @@
-package br.com.rodriguestech.languagesapi;
+package br.com.rodriguestech.languagesapi.domain.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
