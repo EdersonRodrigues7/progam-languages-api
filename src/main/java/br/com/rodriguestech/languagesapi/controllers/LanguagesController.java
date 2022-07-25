@@ -19,7 +19,7 @@ public class LanguagesController {
         this.service = service;
     }
 
-    @GetMapping(value="/laguages")
+    @GetMapping(value="/languages")
     public ResponseEntity<List<LanguageResponse>>  getAll() {
         var result = service.listAll();
         return ResponseEntity.ok(result);
